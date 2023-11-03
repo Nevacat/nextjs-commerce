@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@notionhq/client": "^2.2.13",
+    "@prisma/client": "^5.5.2",
     "next": "14.0.1",
     "react": "^18",
     "react-dom": "^18"
@@ -25,6 +26,7 @@
     "husky": "^8.0.3",
     "lint-staged": "^15.0.2",
     "prettier": "^3.0.3",
+    "prisma": "^5.5.2",
     "typescript": "^5"
   },
   "lint-staged": {
